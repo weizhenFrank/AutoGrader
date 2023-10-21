@@ -22,7 +22,7 @@ AutoGrader is an automated grading tool that leverages the power of OpenAI's GPT
 1. Clone the repository:
 
 ```
-git clone <repository_link>
+git clone https://github.com/weizhenFrank/AutoGrader.git
 ```
 
 
